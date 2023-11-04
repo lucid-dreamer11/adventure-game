@@ -2,6 +2,8 @@
 <p align="center">
    <img src="assets/demo.png" width="250" alt="demo"> <img src="assets/demo3.png" width="300" alt="demo3"> 
   <img src="assets/demo2.png" width="240" alt="demo2">
+  <img src="assets/demo.png" width="250" alt="demo"> <img src="assets/demo3.png" width="300" alt="demo3"> 
+  <img src="assets/demo2.png" width="240" alt="demo2">
 </p>
 
 ## About
