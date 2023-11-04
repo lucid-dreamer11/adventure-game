@@ -32,7 +32,7 @@ $ git clone https://github.com/lucid-dreamer11/greek-restaurant
 $ cd greek-restaurant
 
 # Open in browser
-$ Open the HTML files (index.html, menu.html, contact.html) in your preferred web browser.
+$ Open the index.html file in your preferred web browser by right-clicking on the file and selecting "Copy path" and pasting in browser.
 
 ```
 ## Limitations
